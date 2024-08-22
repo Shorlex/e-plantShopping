@@ -21,6 +21,14 @@ body {
     font-size: 20px;
 }
 
+.cart-item-count{
+    color: red;
+    font-size: 1rem;
+    position: absolute;
+    top: 0;
+    right: 20px;
+}
+
 .navbar .ul {
     display: flex;
     justify-content: space-between;
